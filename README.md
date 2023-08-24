@@ -48,5 +48,4 @@ git push heroku HEAD:master
 #### By
 + Pratyusha Sarkar
 
-#### Special Thanks to Marisa from the Streamlit Team
-+ Awesome Tool & Super Handy
+
