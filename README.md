@@ -42,18 +42,8 @@ git commit -m "heroku deployment"
 git push heroku HEAD:master
 ```
 
-#### Random Forest Classifier
-![](screenshots/iris-rf.png)
-
-#### Support Vector Machine
-![](screenshots/bc-svm.png)
-
-#### K Nearest Neighbours
-![](screenshots/wine-knn.png)
-
 
 #### By
-+ Sagnik Mitra
++ Pratyusha Sarkar
 
-#### Special Thanks to Marisa from the Streamlit Team
-+ Awesome Tool & Super Handy
+
